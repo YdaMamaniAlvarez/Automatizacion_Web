@@ -1,0 +1,7 @@
+com\nttdata\runner\RunnerTest.class
+com\nttdata\page\LoginPage.class
+com\nttdata\stepsdefinitions\LoginStepsDef.class
+com\nttdata\steps\LoginSteps.class
+com\nttdata\core\DriverManager.class
+com\nttdata\page\InventoryPage.class
+com\nttdata\steps\InventorySteps.class
